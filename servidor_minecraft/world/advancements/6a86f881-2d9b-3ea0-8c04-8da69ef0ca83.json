@@ -80,8 +80,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-21 03:11:24 +0000",
+      "minecraft:dark_forest": "2025-05-21 18:28:52 +0000",
       "minecraft:river": "2025-05-21 03:34:48 +0000",
-      "minecraft:ocean": "2025-05-21 03:11:55 +0000"
+      "minecraft:ocean": "2025-05-21 03:11:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-21 18:33:58 +0000"
     },
     "done": false
   },
@@ -1188,7 +1190,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "clover_patch": "2025-05-21 03:41:42 +0000"
+      "clover_patch": "2025-05-21 03:41:42 +0000",
+      "grassland": "2025-05-21 18:33:49 +0000"
     },
     "done": false
   },
@@ -2344,15 +2347,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-21 18:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-21 18:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-21 18:12:09 +0000"
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-21 18:33:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-21 18:26:15 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/decorations/change_machine": {
+    "criteria": {
+      "has_thing": "2025-05-21 18:33:17 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/emerald_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-21 18:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-21 18:12:09 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/emerald_button": {
+    "criteria": {
+      "has_thing": "2025-05-21 18:33:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-21 18:26:15 +0000"
     },
     "done": true
   },
