@@ -5556,3 +5556,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21May2025 20:25:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Set own game mode to Creative Mode]
 [21May2025 20:26:10.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [21May2025 20:26:15.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 20:30:45.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 20:30:46.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 20:31:38.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21May2025 20:31:47.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 20:32:12.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21May2025 20:33:59.871] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 20:34:27.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21May2025 20:36:15.520] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 20:36:50.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[21May2025 20:36:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[21May2025 20:36:50.777] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
