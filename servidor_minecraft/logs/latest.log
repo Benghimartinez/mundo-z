@@ -5567,3 +5567,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21May2025 20:36:50.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
 [21May2025 20:36:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [21May2025 20:36:50.777] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[21May2025 21:08:12.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:33789] logged in with entity id 41757 at (170.5, 68.5, 1156.5)
+[21May2025 21:08:12.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[21May2025 21:08:12.800] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[21May2025 21:08:12.805] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[21May2025 21:08:13.006] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[21May2025 21:08:13.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[21May2025 21:08:13.008] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[21May2025 21:08:44.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 21:09:45.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Set own game mode to Survival Mode]
