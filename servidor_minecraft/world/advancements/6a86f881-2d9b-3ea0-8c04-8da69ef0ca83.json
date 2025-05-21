@@ -2347,6 +2347,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-21 18:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-21 18:12:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-21 18:26:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-21 18:26:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-21 18:27:43 +0000"
@@ -2356,30 +2380,6 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-21 18:33:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-21 18:12:09 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-05-21 18:33:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cookie": "2025-05-21 18:59:54 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-05-21 18:26:15 +0000"
     },
     "done": true
   },
@@ -2395,15 +2395,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-21 18:12:09 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/emerald_button": {
     "criteria": {
       "has_thing": "2025-05-21 18:33:17 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-21 18:33:26 +0000"
     },
     "done": true
   },
@@ -2413,9 +2413,297 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_backpack": "2025-05-21 18:26:15 +0000"
+      "cookie": "2025-05-21 18:59:54 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 19:24:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 19:24:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-21 19:24:27 +0000"
     },
     "done": true
   },

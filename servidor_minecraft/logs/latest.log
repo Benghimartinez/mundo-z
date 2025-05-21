@@ -5483,3 +5483,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21May2025 19:06:53.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
 [21May2025 19:06:53.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [21May2025 19:06:53.579] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[21May2025 19:22:37.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:38301] logged in with entity id 20556 at (170.0563430317891, 63.0, 1156.2296348836003)
+[21May2025 19:22:37.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[21May2025 19:22:37.576] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[21May2025 19:22:37.582] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[21May2025 19:22:37.769] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[21May2025 19:22:37.770] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[21May2025 19:22:37.770] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[21May2025 19:23:25.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Set own game mode to Survival Mode]
+[21May2025 19:25:25.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 19:25:44.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21May2025 19:28:10.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21May2025 19:28:25.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 19:28:52.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
