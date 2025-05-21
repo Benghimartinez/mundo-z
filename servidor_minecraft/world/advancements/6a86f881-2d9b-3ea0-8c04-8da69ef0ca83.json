@@ -2416,6 +2416,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-21 20:11:33 +0000",
       "cookie": "2025-05-21 18:59:54 +0000",
       "cooked_salmon": "2025-05-21 19:41:47 +0000"
     },
@@ -2574,6 +2575,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-21 20:14:25 +0000"
     },
     "done": true
   },
@@ -2997,6 +3004,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-21 20:14:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jacaranda_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
@@ -3081,6 +3094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-21 20:13:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
@@ -3141,9 +3160,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-21 20:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-21 19:57:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-21 20:14:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-21 20:17:24 +0000"
     },
     "done": true
   },
@@ -3489,6 +3526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-21 20:17:24 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/birch_lane": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -3552,6 +3595,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement_0": "2025-05-21 20:23:57 +0000"
     },
     "done": true
   },
@@ -3789,6 +3838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-21 20:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-05-21 19:34:45 +0000"
@@ -3864,6 +3919,12 @@
   "pfm:recipes/furniture/dark_oak_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-21 20:13:20 +0000"
     },
     "done": true
   },
@@ -4299,6 +4360,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-21 20:14:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -4341,6 +4408,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-21 20:14:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-21 19:59:09 +0000"
@@ -4362,6 +4435,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-21 20:21:34 +0000"
     },
     "done": true
   },
