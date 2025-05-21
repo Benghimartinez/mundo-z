@@ -2371,6 +2371,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cookie": "2025-05-21 18:59:54 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-05-21 18:26:15 +0000"
@@ -2398,6 +2404,12 @@
   "infinitybuttons:recipe/redstone/emerald_button": {
     "criteria": {
       "has_thing": "2025-05-21 18:33:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-05-21 18:55:06 +0000"
     },
     "done": true
   },
