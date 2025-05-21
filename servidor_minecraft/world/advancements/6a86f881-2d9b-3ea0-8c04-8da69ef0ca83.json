@@ -2415,7 +2415,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cookie": "2025-05-21 18:59:54 +0000"
+      "cookie": "2025-05-21 18:59:54 +0000",
+      "cooked_salmon": "2025-05-21 19:41:47 +0000"
     },
     "done": false
   },
@@ -2479,6 +2480,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/cherry_lane": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -2530,6 +2537,12 @@
   "pfm:recipes/furniture/oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
     },
     "done": true
   },
@@ -2620,6 +2633,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-21 19:35:09 +0000"
     },
     "done": true
   },
@@ -2755,9 +2774,21 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/rubber_thingamajigs_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/grass_block_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -2809,6 +2840,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_lime": {
+    "criteria": {
+      "oak_chair_classic_lime": "2025-05-21 19:35:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-21 19:33:03 +0000"
@@ -2821,9 +2858,27 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/dirt_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
     },
     "done": true
   },
@@ -2887,6 +2942,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-05-21 19:35:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/jungle_lane": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -2929,9 +2996,27 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/dirt_path_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
     },
     "done": true
   },
@@ -2959,6 +3044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-05-21 19:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-21 19:34:28 +0000"
@@ -2980,6 +3071,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_red": {
+    "criteria": {
+      "oak_chair_classic_red": "2025-05-21 19:35:09 +0000"
     },
     "done": true
   },
@@ -3133,6 +3230,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
     "criteria": {
       "has_item": "2025-05-21 19:29:29 +0000"
@@ -3163,6 +3266,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/lime_shower_towel": {
+    "criteria": {
+      "has_lime_wool": "2025-05-21 19:35:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/purple_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-21 19:33:03 +0000"
@@ -3181,6 +3290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 19:35:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
@@ -3190,6 +3305,12 @@
   "pfm:recipes/furniture/jacaranda_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-21 19:34:45 +0000"
     },
     "done": true
   },
@@ -3301,6 +3422,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dead_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
@@ -3322,6 +3449,18 @@
   "thingamajigs:recipes/building_blocks/dark_oak_lane": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-05-21 19:35:35 +0000"
     },
     "done": true
   },
@@ -3364,6 +3503,18 @@
   "pfm:recipes/furniture/cyan_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-21 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/mycelium_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -3415,6 +3566,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-21 19:33:03 +0000"
@@ -3427,9 +3584,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/podzol_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -3484,6 +3665,12 @@
   "pfm:recipes/furniture/crimson_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-21 19:24:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_shower_towel": {
+    "criteria": {
+      "has_red_wool": "2025-05-21 19:35:09 +0000"
     },
     "done": true
   },
@@ -3553,6 +3740,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -3613,6 +3806,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -3667,6 +3866,19 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "sandy_dirt": "2025-05-21 19:38:50 +0000",
+      "dirt": "2025-05-21 19:43:48 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -3676,6 +3888,12 @@
   "pfm:recipes/furniture/magenta_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-21 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-21 19:34:45 +0000"
     },
     "done": true
   },
@@ -3724,6 +3942,12 @@
   "pfm:recipes/furniture/oak_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-05-21 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-05-21 19:35:09 +0000"
     },
     "done": true
   },
