@@ -1088,6 +1088,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-21 19:59:39 +0000",
       "minecraft:drowned": "2025-05-21 03:35:09 +0000"
     },
     "done": false
@@ -2594,6 +2595,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-21 20:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-05-21 19:34:17 +0000"
@@ -3218,6 +3225,12 @@
     },
     "done": true
   },
+  "createloveandwar:recipes/misc/raw_sulphur_block": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-21 20:06:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-21 19:29:29 +0000"
@@ -3830,6 +3843,12 @@
     },
     "done": true
   },
+  "createloveandwar:recipes/misc/sulphur_from_blasting_raw_sulphur": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-21 20:06:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-21 19:57:12 +0000"
@@ -3881,6 +3900,12 @@
   "pfm:recipes/furniture/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-21 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/sulphur_from_smelting_raw_sulphur": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-21 20:06:13 +0000"
     },
     "done": true
   },
