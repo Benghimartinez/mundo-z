@@ -1,4 +1,10 @@
 {
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-05-21 21:45:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-05-21 21:33:19 +0000"
@@ -26,6 +32,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-05-21 21:30:01 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement_0": "2025-05-21 21:45:57 +0000"
     },
     "done": true
   },
@@ -269,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-21 21:44:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
@@ -404,6 +422,45 @@
   "thingamajigs:recipes/building_blocks/birch_lane": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:blaze": "2025-05-21 21:45:57 +0000",
+      "minecraft:pillager": "2025-05-21 21:45:57 +0000",
+      "minecraft:skeleton": "2025-05-21 21:45:57 +0000",
+      "minecraft:elder_guardian": "2025-05-21 21:45:57 +0000",
+      "minecraft:zoglin": "2025-05-21 21:45:57 +0000",
+      "minecraft:ravager": "2025-05-21 21:45:57 +0000",
+      "minecraft:ghast": "2025-05-21 21:45:57 +0000",
+      "minecraft:hoglin": "2025-05-21 21:45:57 +0000",
+      "minecraft:guardian": "2025-05-21 21:45:57 +0000",
+      "minecraft:vindicator": "2025-05-21 21:45:57 +0000",
+      "minecraft:magma_cube": "2025-05-21 21:45:57 +0000",
+      "minecraft:piglin_brute": "2025-05-21 21:45:57 +0000",
+      "minecraft:spider": "2025-05-21 21:45:57 +0000",
+      "minecraft:creeper": "2025-05-21 21:45:57 +0000",
+      "minecraft:wither": "2025-05-21 21:45:57 +0000",
+      "minecraft:evoker": "2025-05-21 21:45:57 +0000",
+      "minecraft:slime": "2025-05-21 21:45:57 +0000",
+      "minecraft:phantom": "2025-05-21 21:45:57 +0000",
+      "minecraft:zombified_piglin": "2025-05-21 21:45:57 +0000",
+      "minecraft:witch": "2025-05-21 21:45:57 +0000",
+      "minecraft:wither_skeleton": "2025-05-21 21:45:57 +0000",
+      "minecraft:husk": "2025-05-21 21:45:57 +0000",
+      "minecraft:ender_dragon": "2025-05-21 21:45:57 +0000",
+      "minecraft:shulker": "2025-05-21 21:45:57 +0000",
+      "minecraft:cave_spider": "2025-05-21 21:45:57 +0000",
+      "minecraft:piglin": "2025-05-21 21:45:57 +0000",
+      "minecraft:enderman": "2025-05-21 21:45:57 +0000",
+      "minecraft:silverfish": "2025-05-21 21:45:57 +0000",
+      "minecraft:stray": "2025-05-21 21:45:57 +0000",
+      "minecraft:endermite": "2025-05-21 21:45:57 +0000",
+      "minecraft:vex": "2025-05-21 21:45:57 +0000",
+      "minecraft:zombie": "2025-05-21 21:45:57 +0000",
+      "minecraft:drowned": "2025-05-21 21:45:57 +0000",
+      "minecraft:zombie_villager": "2025-05-21 21:45:57 +0000"
     },
     "done": true
   },
@@ -635,6 +692,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-21 21:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
@@ -662,6 +725,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-21 21:44:13 +0000"
     },
     "done": true
   },
@@ -788,6 +857,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_stool": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-05-21 21:44:39 +0000"
     },
     "done": true
   },
@@ -931,6 +1006,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-21 21:43:26 +0000",
       "minecraft:beach": "2025-05-21 21:30:02 +0000",
       "minecraft:river": "2025-05-21 21:33:51 +0000",
       "minecraft:ocean": "2025-05-21 21:31:34 +0000"
