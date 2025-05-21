@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-21 22:07:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-21 22:07:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
@@ -839,6 +851,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_planks": "2025-05-21 21:33:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-21 22:07:30 +0000"
     },
     "done": true
   },
@@ -997,6 +1015,12 @@
       "has_spruce_planks": "2025-05-21 21:33:19 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-21 22:06:04 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
@@ -1717,7 +1741,8 @@
       "minecraft:deep_ocean": "2025-05-21 21:43:26 +0000",
       "minecraft:beach": "2025-05-21 21:30:02 +0000",
       "minecraft:river": "2025-05-21 21:33:51 +0000",
-      "minecraft:ocean": "2025-05-21 21:31:34 +0000"
+      "minecraft:ocean": "2025-05-21 21:31:34 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-21 22:07:37 +0000"
     },
     "done": false
   },
