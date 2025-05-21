@@ -22883,3 +22883,84 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21May2025 21:09:37.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 21:09:37.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21May2025 21:09:45.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Set own game mode to Survival Mode]
+[21May2025 21:10:33.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 21:11:36.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 21:11:44.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 21:11:44.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 21:14:37.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 21:14:37.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 21:15:50.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21May2025 21:15:50.974] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:15:50.974] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:15:58.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 21:16:01.125] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:16:01.125] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:16:22.430] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:16:32.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 21:16:53.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:16:53.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Not Today, Thank You]
+[21May2025 21:16:54.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21May2025 21:16:57.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:00.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:00.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:00.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:01.376] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:01.876] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:02.425] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:03.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:03.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:04.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:04.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:05.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:05.576] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:06.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:06.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:07.125] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:07.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:08.175] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:08.975] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:09.476] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:10.028] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:10.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:11.025] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:11.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:12.026] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:12.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:13.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:13.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:14.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:14.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:15.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:15.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:16.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:16.576] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:17.176] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:17.726] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:18.224] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:18.726] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:19.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:19.826] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:20.475] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:21.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:21.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:22.025] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:22.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:23.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:23.776] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:24.274] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:24.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:25.375] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:25.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:26.375] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:26.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:27.425] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:27.976] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:28.526] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:29.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:29.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:17:30.225] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21May2025 21:18:27.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 21:18:59.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 21:18:59.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21May2025 21:19:37.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 21:19:37.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

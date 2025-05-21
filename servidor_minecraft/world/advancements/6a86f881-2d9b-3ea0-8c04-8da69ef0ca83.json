@@ -1089,6 +1089,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-21 19:59:39 +0000",
+      "minecraft:zombie": "2025-05-21 21:11:18 +0000",
       "minecraft:drowned": "2025-05-21 03:35:09 +0000"
     },
     "done": false
@@ -4808,6 +4809,12 @@
   "ags_day_counter:tenth_day_advancement": {
     "criteria": {
       "tenth_day_advancement_0": "2025-05-21 20:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-21 21:16:53 +0000"
     },
     "done": true
   },
