@@ -9122,15 +9122,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/alt_french_brick": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2025-05-22 21:40:15 +0000"
     },
     "done": true
   },
+  "thingamajigs:recipes/building_blocks/french_brick": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-05-22 23:38:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/outlet": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/black_bricks": {
+    "criteria": {
+      "has_item": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
   "create:encased_fan": {
     "criteria": {
       "0": "2025-05-22 21:32:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_log_stool": {
+    "criteria": {
+      "has_log": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
     },
     "done": true
   },
@@ -9158,15 +9254,81 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/bricks": {
+    "criteria": {
+      "has_copper_block": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-22 23:03:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
   "create:compacting": {
     "criteria": {
       "0": "2025-05-22 22:21:47 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/cyan_bricks": {
+    "criteria": {
+      "has_item": "2025-05-22 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-05-22 23:31:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 23:31:07 +0000"
     },
     "done": true
   },
