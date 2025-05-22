@@ -23198,3 +23198,74 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22May2025 23:15:22.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [22May2025 23:15:39.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [22May2025 23:15:55.413] [Worker-Main-137/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[22May2025 23:16:01.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 23:16:03.699] [Worker-Main-137/DEBUG] [ModernFix/]: Structure apocalypsenow:apartament is being run through DFU (hash 125bd767f1d8e41b6f594abe0f68d03c5f776664e5647c503e856765bdde01b2), this will cause launch time delays
+[22May2025 23:16:03.699] [Worker-Main-137/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22May2025 23:17:12.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 23:17:15.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 23:17:19.940] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:17:19.940] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:17:19.940] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:17:19.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Looter
+[22May2025 23:17:25.796] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:17:25.796] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[22May2025 23:18:10.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:18:50.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 23:18:51.034] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 23:18:54.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 23:19:12.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 23:19:42.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 23:19:43.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 23:19:51.286] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 23:19:54.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 23:19:55.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:19:55.540] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:19:55.540] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:19:56.637] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:19:56.637] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:19:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[22May2025 23:19:59.885] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:19:59.888] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[22May2025 23:20:12.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported Asias_SX to benghijairo_GT]
+[22May2025 23:20:21.174] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/util/WellKnownExceptions
+[22May2025 23:21:09.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 23:21:45.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:21:59.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:22:05.289] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:05.289] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:20.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 23:22:26.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[22May2025 23:22:32.956] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:42.087] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:42.087] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:42.087] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:42.087] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Soldier
+[22May2025 23:22:48.489] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:48.491] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[22May2025 23:22:50.936] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:50.937] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:50.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Soldier
+[22May2025 23:22:53.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:22:53.083] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[22May2025 23:23:07.533] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:23:44.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 23:23:49.934] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:24:14.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:24:17.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 23:24:31.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 23:24:33.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:24:42.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 23:24:42.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 23:24:47.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 23:24:55.937] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:24:55.937] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:24:56.441] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:24:56.943] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:24:57.336] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:24:57.336] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:24:57.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[22May2025 23:24:58.840] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 23:24:58.843] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[22May2025 23:25:09.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported Asias_SX to benghijairo_GT]
+[22May2025 23:25:43.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
