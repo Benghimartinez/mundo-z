@@ -7315,6 +7315,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-05-22 05:34:44 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/iron_table": {
     "criteria": {
       "has_thingy": "2025-05-22 00:49:13 +0000"
@@ -7654,6 +7660,12 @@
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-05-22 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-05-22 05:29:51 +0000"
     },
     "done": true
   },
@@ -8155,6 +8167,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-05-22 05:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
@@ -8533,6 +8551,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-05-22 05:29:51 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -8836,6 +8860,12 @@
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-05-22 00:44:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-22 05:29:51 +0000"
     },
     "done": true
   },
