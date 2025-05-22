@@ -7245,6 +7245,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_copper_large_button_pouring_honey": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -7276,6 +7282,12 @@
       "minecraft:basalt_deltas": "2025-05-22 02:07:46 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
   },
   "thingamajigs:recipes/building_blocks/iron_table": {
     "criteria": {
@@ -7337,6 +7349,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
@@ -7361,9 +7385,27 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "createloveandwar:recipes/misc/nexus_block": {
     "criteria": {
       "has_brass_casing": "2025-05-22 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -7400,6 +7442,12 @@
   "pfm:recipes/furniture/stripped_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -7451,6 +7499,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
@@ -7472,6 +7526,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -7523,6 +7583,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
@@ -7571,15 +7637,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -7643,9 +7727,27 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-05-22 01:18:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -7721,6 +7823,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-22 01:18:03 +0000"
@@ -7787,9 +7895,21 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_button": {
+    "criteria": {
+      "has_thing": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -7925,6 +8045,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-05-22 00:45:23 +0000"
@@ -7988,6 +8114,12 @@
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -8171,6 +8303,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-05-22 02:49:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
@@ -8180,6 +8318,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tiles_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -8315,6 +8459,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -8390,6 +8540,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -8543,6 +8699,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
@@ -8552,6 +8714,18 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_button_stonecutter": {
+    "criteria": {
+      "has_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
@@ -8597,6 +8771,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/copper_tiles_from_copper_block": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
@@ -8618,6 +8798,12 @@
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-22 02:49:17 +0000"
     },
     "done": true
   },
