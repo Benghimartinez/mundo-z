@@ -24985,3 +24985,24 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [22May2025 01:50:23.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [22May2025 01:51:27.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [22May2025 01:51:43.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 01:54:51.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 01:54:52.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:54:52.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 01:54:59.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 01:55:24.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 01:56:08.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 01:57:58.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 01:58:02.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 01:58:50.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 01:59:52.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:59:52.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 02:00:49.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 02:01:31.491] [Server thread/DEBUG] [mixin/]: Mixing create.MixinGenericItemEmptying from thirst.mixin.json into com.simibubi.create.content.fluids.transfer.GenericItemEmptying
+[22May2025 02:01:31.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[22May2025 02:01:31.495] [Server thread/DEBUG] [mixin/]: Mixing create.MixinGenericItemFilling from thirst.mixin.json into com.simibubi.create.content.fluids.transfer.GenericItemFilling
+[22May2025 02:03:41.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 02:03:48.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 02:03:54.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Set own game mode to Creative Mode]
+[22May2025 02:04:17.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Those Were the Days]
+[22May2025 02:04:52.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 02:04:52.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

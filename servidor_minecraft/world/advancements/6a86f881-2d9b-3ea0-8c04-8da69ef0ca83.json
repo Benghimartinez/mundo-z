@@ -7244,6 +7244,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-05-22 01:54:28 +0000"
+    },
+    "done": true
+  },
   "mekanismexplosives:mekanism_explosives_advancements": {
     "criteria": {
       "mekanism_explosives_advancements": "2025-05-22 01:14:49 +0000"
@@ -7280,9 +7286,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_wood_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7301,6 +7319,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7328,6 +7352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
@@ -7349,6 +7379,12 @@
   "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2025-05-22 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7394,6 +7430,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "numismatics:recipes/misc/crafting/vendor": {
     "criteria": {
       "has_item": "2025-05-22 01:49:51 +0000"
@@ -7436,9 +7478,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/factory_block_from_iron_block_stonecutting": {
     "criteria": {
       "has_iron_block": "2025-05-22 00:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7478,15 +7538,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_wood_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-22 01:17:51 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7507,6 +7585,18 @@
       "entered_nether": "2025-05-22 01:06:28 +0000"
     },
     "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-05-22 02:02:28 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
@@ -7592,6 +7682,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-22 01:18:03 +0000"
@@ -7649,6 +7745,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7832,6 +7934,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-22 00:45:23 +0000"
@@ -7841,6 +7949,18 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-05-22 01:18:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7865,6 +7985,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-22 01:18:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7952,9 +8078,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -7967,6 +8105,12 @@
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -8012,6 +8156,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -8027,6 +8177,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -8096,6 +8252,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2025-05-22 01:49:51 +0000"
@@ -8105,6 +8267,12 @@
   "infinitybuttons:recipe/redstone/oxidized_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -8138,9 +8306,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/oak_bark": {
     "criteria": {
       "has_copper_block": "2025-05-22 00:51:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -8165,6 +8345,12 @@
   "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -8204,6 +8390,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
@@ -8228,9 +8420,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-22 02:04:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
@@ -8267,6 +8471,12 @@
   "xkdeco:recipes/building_blocks/steel_block": {
     "criteria": {
       "has_item": "2025-05-22 00:49:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-22 01:51:32 +0000"
     },
     "done": true
   },
