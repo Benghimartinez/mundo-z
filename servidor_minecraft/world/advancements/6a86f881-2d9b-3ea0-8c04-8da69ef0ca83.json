@@ -7239,6 +7239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_copper_large_button_pouring_honey": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -7304,6 +7310,12 @@
   "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-05-22 02:38:35 +0000"
     },
     "done": true
   },
@@ -7418,6 +7430,12 @@
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -7631,6 +7649,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
@@ -7715,6 +7745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-05-22 01:49:51 +0000"
@@ -7739,6 +7775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-05-22 01:49:48 +0000"
@@ -7760,6 +7802,12 @@
   "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2025-05-22 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -7808,6 +7856,12 @@
   "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2025-05-22 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -7880,6 +7934,12 @@
   "infinitybuttons:recipe/redstone/waxed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -7979,6 +8039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
@@ -8015,6 +8081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
@@ -8024,6 +8096,18 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -8090,6 +8174,12 @@
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -8183,6 +8273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -8213,9 +8309,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -8258,6 +8366,18 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
@@ -8375,6 +8495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-22 00:45:23 +0000"
@@ -8462,6 +8588,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
     },
     "done": true
   },
