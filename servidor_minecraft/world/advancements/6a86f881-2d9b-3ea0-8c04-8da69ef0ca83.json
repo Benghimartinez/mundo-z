@@ -1195,6 +1195,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2025-05-21 03:41:42 +0000",
+      "crystalline_chasm": "2025-05-22 01:19:38 +0000",
       "redwood_forest": "2025-05-21 22:29:13 +0000",
       "grassland": "2025-05-21 18:33:49 +0000"
     },
@@ -7243,6 +7244,12 @@
     },
     "done": true
   },
+  "mekanismexplosives:mekanism_explosives_advancements": {
+    "criteria": {
+      "mekanism_explosives_advancements": "2025-05-22 01:14:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
@@ -7285,6 +7292,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
@@ -7294,6 +7307,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-22 01:17:51 +0000"
     },
     "done": true
   },
@@ -7327,6 +7346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -7354,6 +7379,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-05-22 00:49:13 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/warped_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-22 01:17:51 +0000"
     },
     "done": true
   },
@@ -7393,6 +7424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-22 01:17:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
@@ -7414,6 +7451,12 @@
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
     },
     "done": true
   },
@@ -7444,6 +7487,12 @@
   "infinitybuttons:recipe/redstone/waxed_exposed_copper_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
     },
     "done": true
   },
@@ -7543,6 +7592,12 @@
     },
     "done": true
   },
+  "apocalypsenow:thesurvivor": {
+    "criteria": {
+      "thesurvivor_0": "2025-05-22 01:14:49 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/decorations/waxed_copper_table": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -7555,15 +7610,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-22 00:45:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
     },
     "done": true
   },
@@ -7642,6 +7715,12 @@
   "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/crimson_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-22 01:17:51 +0000"
     },
     "done": true
   },
@@ -7732,6 +7811,12 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-22 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-22 01:18:03 +0000"
     },
     "done": true
   },
