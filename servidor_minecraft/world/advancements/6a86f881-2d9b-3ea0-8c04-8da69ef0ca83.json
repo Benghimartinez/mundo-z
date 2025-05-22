@@ -7460,6 +7460,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-05-22 01:34:20 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/weathered_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
