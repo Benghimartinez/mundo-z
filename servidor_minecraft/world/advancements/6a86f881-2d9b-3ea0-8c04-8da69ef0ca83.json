@@ -1090,6 +1090,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-21 19:59:39 +0000",
+      "minecraft:creeper": "2025-05-22 03:14:02 +0000",
       "minecraft:piglin": "2025-05-22 01:08:53 +0000",
       "minecraft:zombie": "2025-05-21 21:11:18 +0000",
       "minecraft:drowned": "2025-05-21 03:35:09 +0000"
@@ -7364,6 +7365,12 @@
   "pfm:recipes/furniture/stripped_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-05-22 03:13:12 +0000"
     },
     "done": true
   },
