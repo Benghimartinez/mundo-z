@@ -5430,6 +5430,12 @@
     },
     "done": true
   },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement_0": "2025-05-22 21:42:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-05-22 21:30:20 +0000"
