@@ -5262,6 +5262,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/redwood_biomesoplenty_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
   "mekanismexplosives:mekanism_explosives_advancements": {
     "criteria": {
       "mekanism_explosives_advancements": "2025-05-22 21:09:21 +0000"
@@ -5274,9 +5280,21 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-22 21:38:52 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/gravel_button": {
     "criteria": {
       "has_thing": "2025-05-22 21:08:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
     },
     "done": true
   },
@@ -5286,15 +5304,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/gravel_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 21:08:41 +0000"
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-05-22 21:33:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_chair": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-22 21:28:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
     },
     "done": true
   },
@@ -5310,9 +5376,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/redwood_biomesoplenty_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-22 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-22 21:27:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
     },
     "done": true
   },
@@ -5322,9 +5442,69 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
   "apocalypsenow:thesurvivor": {
     "criteria": {
       "thesurvivor_0": "2025-05-22 21:09:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-22 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
     },
     "done": true
   },
@@ -5340,6 +5520,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/powder_keg": {
     "criteria": {
       "get_powder": "2025-05-22 21:28:24 +0000"
@@ -5352,15 +5544,57 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-22 21:09:07 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/redwood_biomesoplenty_table_log": {
+    "criteria": {
+      "has_log": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-22 21:27:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 21:30:20 +0000"
     },
     "done": true
   },

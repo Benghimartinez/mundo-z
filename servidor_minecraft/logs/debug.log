@@ -22790,3 +22790,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22May2025 21:31:41.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [22May2025 21:31:46.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [22May2025 21:33:19.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 21:34:42.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 21:34:43.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 21:35:09.534] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:35:18.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:36:06.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 21:36:08.090] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:36:08.090] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:36:44.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:37:14.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/funnel/FunnelBlockEntity$Mode
+[22May2025 21:37:46.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:38:37.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:38:42.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:39:13.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 21:39:42.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 21:39:43.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 21:40:07.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:40:23.635] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:40:37.643] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/filter/FilterScreenPacket$Option
+[22May2025 21:40:39.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:40:49.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:40:57.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:41:33.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:42:57.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [Keep Going]
+[22May2025 21:43:44.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:43:44.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:44:09.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:44:25.983] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
