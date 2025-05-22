@@ -988,7 +988,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-21 21:37:11 +0000"
+      "bread": "2025-05-21 21:37:11 +0000",
+      "carrot": "2025-05-22 22:12:33 +0000"
     },
     "done": false
   },
@@ -5574,6 +5575,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/decorations/glow_item_frame_cover": {
+    "criteria": {
+      "has_item": "2025-05-22 22:14:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-05-22 21:38:52 +0000"
@@ -5589,6 +5596,12 @@
   "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-22 21:30:20 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/vitrified_sand": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:13:37 +0000"
     },
     "done": true
   },
