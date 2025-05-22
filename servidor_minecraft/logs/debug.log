@@ -22678,3 +22678,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22May2025 21:11:08.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [22May2025 21:11:09.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [22May2025 21:11:52.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:14:42.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 21:14:43.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 21:16:24.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:17:34.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 21:17:46.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/gathering_camps
+[22May2025 21:17:47.951] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[22May2025 21:17:47.951] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22May2025 21:18:10.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[22May2025 21:18:45.845] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:18:45.846] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:18:52.738] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:18:52.738] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:19:42.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 21:19:43.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 21:19:49.137] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[22May2025 21:19:49.137] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22May2025 21:20:00.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_entrance_0
+[22May2025 21:20:00.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_2
+[22May2025 21:20:00.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_1
+[22May2025 21:20:00.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_2
+[22May2025 21:20:00.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_7
+[22May2025 21:20:00.631] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_1
+[22May2025 21:20:00.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_2
+[22May2025 21:20:00.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_3
+[22May2025 21:20:00.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_0
+[22May2025 21:20:00.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_0
+[22May2025 21:20:00.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_4
+[22May2025 21:20:00.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_4
+[22May2025 21:20:00.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_5
+[22May2025 21:20:00.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_2
+[22May2025 21:20:00.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_3
+[22May2025 21:20:00.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_1
+[22May2025 21:20:00.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_1
+[22May2025 21:20:00.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_2
+[22May2025 21:20:00.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_4
+[22May2025 21:20:00.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_terminator_1
+[22May2025 21:20:00.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_0
+[22May2025 21:20:00.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_3
+[22May2025 21:20:00.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_3
+[22May2025 21:20:00.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_8
+[22May2025 21:20:00.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_0
+[22May2025 21:20:00.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_4
+[22May2025 21:20:00.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_0
+[22May2025 21:20:00.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_6
+[22May2025 21:20:00.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_9
+[22May2025 21:20:01.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:20:17.542] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:20:17.543] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:20:29.435] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[22May2025 21:20:29.435] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22May2025 21:20:42.535] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:21:11.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:21:55.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:22:24.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:22:36.368] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:22:36.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[22May2025 21:22:36.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was slain by benghijairo_GT
+[22May2025 21:22:38.149] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22May2025 21:22:38.149] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[22May2025 21:23:14.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:23:27.834] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
