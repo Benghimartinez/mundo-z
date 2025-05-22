@@ -21802,3 +21802,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22May2025 20:42:02.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [22May2025 20:42:02.095] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of benghijairo_GT
 [22May2025 20:42:02.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[22May2025 20:44:42.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 20:44:42.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 20:49:42.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 20:49:42.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
