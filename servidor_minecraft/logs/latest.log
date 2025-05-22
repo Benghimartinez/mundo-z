@@ -5487,3 +5487,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22May2025 21:02:49.173] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
 [22May2025 21:02:49.174] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
 [22May2025 21:02:49.174] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[22May2025 21:04:33.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 21:05:48.534] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[22May2025 21:06:40.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asias_SX[/127.57.62.112:48771] logged in with entity id 9502 at (1981.5864279605578, 62.0, 510.5887758243814)
+[22May2025 21:06:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX joined the game
+[22May2025 21:06:40.441] [Server thread/INFO] [Jade/]: Syncing config to Asias_SX (60443e8a-ce41-3db5-b413-f22c7757fd35)
+[22May2025 21:06:40.445] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] seen for the first time as 'Player:'Asias_SX'['overworld']'
+[22May2025 21:06:40.582] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[22May2025 21:06:40.583] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22May2025 21:06:42.709] [Server thread/INFO] [ping-wheel/]: Channel update: Asias_SX -> default
+[22May2025 21:06:42.710] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asias_SX (18)
+[22May2025 21:06:42.710] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asias_SX
+[22May2025 21:07:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported Asias_SX to benghijairo_GT]
+[22May2025 21:07:48.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:07:56.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[22May2025 21:07:56.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> tienenes internet
+[22May2025 21:08:38.434] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:09:07.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [We Need to Go Deeper]
+[22May2025 21:09:07.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[22May2025 21:09:08.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[22May2025 21:09:08.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[22May2025 21:09:08.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[22May2025 21:09:08.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[22May2025 21:09:08.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[22May2025 21:09:08.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[22May2025 21:09:21.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [The survivor]
+[22May2025 21:09:39.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:11:08.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 21:11:09.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 21:11:52.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
