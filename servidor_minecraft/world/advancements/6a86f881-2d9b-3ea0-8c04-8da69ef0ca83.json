@@ -7513,6 +7513,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-22 04:57:07 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -8470,6 +8476,12 @@
   "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-22 05:03:53 +0000"
     },
     "done": true
   },
