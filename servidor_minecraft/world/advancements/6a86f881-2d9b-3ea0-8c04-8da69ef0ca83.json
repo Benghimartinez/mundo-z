@@ -1090,6 +1090,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-21 19:59:39 +0000",
+      "minecraft:piglin": "2025-05-22 01:08:53 +0000",
       "minecraft:zombie": "2025-05-21 21:11:18 +0000",
       "minecraft:drowned": "2025-05-21 03:35:09 +0000"
     },
@@ -7248,6 +7249,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-22 01:06:31 +0000"
+    },
+    "done": false
+  },
   "thingamajigs:recipes/building_blocks/iron_table": {
     "criteria": {
       "has_thingy": "2025-05-22 00:49:13 +0000"
@@ -7395,6 +7402,12 @@
   "infinitybuttons:recipe/redstone/sticky_weathered_copper_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-22 01:06:28 +0000"
     },
     "done": true
   },
@@ -7584,6 +7597,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-22 01:03:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
@@ -7746,6 +7765,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-22 01:06:28 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/decorations/steel_block": {
     "criteria": {
       "has_thing": "2025-05-22 00:49:13 +0000"
@@ -7785,6 +7810,12 @@
   "xkdeco:recipes/building_blocks/copper_tiles_from_copper_block": {
     "criteria": {
       "has_item": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-22 01:03:16 +0000"
     },
     "done": true
   },
