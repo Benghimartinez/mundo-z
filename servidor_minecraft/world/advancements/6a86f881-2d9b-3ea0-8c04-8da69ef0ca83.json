@@ -8353,6 +8353,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-05-22 04:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-22 01:45:21 +0000"
@@ -8536,6 +8542,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-05-22 04:23:52 +0000"
     },
     "done": true
   },
