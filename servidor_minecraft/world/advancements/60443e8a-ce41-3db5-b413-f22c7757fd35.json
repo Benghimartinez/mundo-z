@@ -80,6 +80,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-05-21 21:43:26 +0000",
+      "minecraft:birch_forest": "2025-05-22 21:26:31 +0000",
       "minecraft:beach": "2025-05-21 21:30:02 +0000",
       "minecraft:river": "2025-05-21 21:33:51 +0000",
       "minecraft:forest": "2025-05-21 23:01:16 +0000",
@@ -956,6 +957,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2025-05-21 21:34:54 +0000",
+      "redwood_forest": "2025-05-22 21:26:09 +0000",
       "grassland": "2025-05-21 22:14:42 +0000"
     },
     "done": false
@@ -5278,15 +5280,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-22 21:27:14 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/gravel_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 21:08:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-22 21:28:24 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/grenade_he": {
+    "criteria": {
+      "has_gunpowder": "2025-05-22 21:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-22 21:09:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-22 21:27:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-22 21:27:14 +0000"
     },
     "done": true
   },
@@ -5302,9 +5334,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-22 21:27:14 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/powder_keg": {
+    "criteria": {
+      "get_powder": "2025-05-22 21:28:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-22 21:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-22 21:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-22 21:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-22 21:28:24 +0000"
     },
     "done": true
   },
