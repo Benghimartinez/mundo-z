@@ -21,3 +21,12 @@
 [22May2025 00:17:35.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
 [22May2025 00:17:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [22May2025 00:17:35.974] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[22May2025 00:42:49.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:57107] logged in with entity id 144408 at (2060.696972495345, 63.5, 520.3737581566463)
+[22May2025 00:42:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[22May2025 00:42:49.232] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[22May2025 00:42:49.236] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[22May2025 00:42:49.314] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[22May2025 00:42:49.424] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[22May2025 00:42:49.427] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[22May2025 00:42:49.427] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[22May2025 00:43:34.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
