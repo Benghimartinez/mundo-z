@@ -7265,6 +7265,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-22 04:34:42 +0000"
+    },
+    "done": true
+  },
   "mekanismexplosives:mekanism_explosives_advancements": {
     "criteria": {
       "mekanism_explosives_advancements": "2025-05-22 01:14:49 +0000"
@@ -7274,6 +7280,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-22 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-05-22 04:33:29 +0000"
     },
     "done": true
   },
@@ -7528,6 +7540,12 @@
   "numismatics:recipes/misc/crafting/vendor": {
     "criteria": {
       "has_item": "2025-05-22 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-22 04:34:42 +0000"
     },
     "done": true
   },
@@ -7882,6 +7900,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-22 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-22 04:34:42 +0000"
     },
     "done": true
   },
@@ -8506,6 +8530,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-22 03:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-22 04:34:42 +0000"
     },
     "done": true
   },
