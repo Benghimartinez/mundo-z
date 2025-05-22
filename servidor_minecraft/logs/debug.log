@@ -21730,3 +21730,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22May2025 20:12:52.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
 [22May2025 20:12:52.294] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@4d6ad4fa for service interface com.blamejared.clumps.platform.IEventHelper
 [22May2025 20:12:52.295] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@55497977 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[22May2025 20:13:25.797] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from sona.mixins.json into net.minecraft.world.CompoundContainer
+[22May2025 20:13:25.797] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[22May2025 20:13:25.798] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[22May2025 20:13:25.852] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[22May2025 20:13:44.405] [FastSuite Recipe Lookup Thread: 1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
+[22May2025 20:13:53.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[22May2025 20:14:43.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 20:14:43.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 20:14:44.883] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[22May2025 20:14:56.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 20:15:13.471] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.BirdPathNodeMakerMixin from lithium.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[22May2025 20:15:13.472] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.pathing.BirdPathNodeMakerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[22May2025 20:16:59.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 20:17:23.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 20:17:32.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 20:17:34.740] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[22May2025 20:17:54.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 20:17:54.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 20:19:42.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 20:19:43.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 20:20:35.886] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 20:20:52.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 20:21:17.434] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[22May2025 20:22:37.434] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[22May2025 20:22:48.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[22May2025 20:22:48.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
