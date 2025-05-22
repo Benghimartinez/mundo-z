@@ -1194,6 +1194,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "erupting_inferno": "2025-05-22 02:06:12 +0000",
       "clover_patch": "2025-05-21 03:41:42 +0000",
       "crystalline_chasm": "2025-05-22 01:19:38 +0000",
       "redwood_forest": "2025-05-21 22:29:13 +0000",
@@ -7264,7 +7265,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-05-22 01:06:31 +0000"
+      "minecraft:nether_wastes": "2025-05-22 01:06:31 +0000",
+      "minecraft:soul_sand_valley": "2025-05-22 02:14:38 +0000",
+      "minecraft:basalt_deltas": "2025-05-22 02:07:46 +0000"
     },
     "done": false
   },
@@ -8042,6 +8045,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-05-22 02:05:31 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-22 00:45:23 +0000"
@@ -8111,6 +8120,12 @@
   "pfm:recipes/furniture/stripped_oak_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-05-22 01:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-22 02:12:36 +0000"
     },
     "done": true
   },

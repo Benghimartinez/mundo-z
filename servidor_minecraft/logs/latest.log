@@ -164,3 +164,5 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [22May2025 02:03:48.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [22May2025 02:03:54.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Set own game mode to Creative Mode]
 [22May2025 02:04:17.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Those Were the Days]
+[22May2025 02:05:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [War Pigs]
+[22May2025 02:12:36.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [A Terrible Fortress]
