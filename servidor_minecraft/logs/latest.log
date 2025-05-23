@@ -5486,3 +5486,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23May2025 05:00:39.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [23May2025 05:02:22.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Looter
 [23May2025 05:02:26.961] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 05:03:23.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 05:04:24.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 05:04:25.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Infected Military
+[23May2025 05:04:26.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 05:04:26.643] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 05:05:17.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 05:05:33.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:05:57.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:06:21.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 05:08:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Diamonds!]
+[23May2025 05:09:16.470] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23May2025 05:09:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> duerme
+[23May2025 05:10:03.447] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:10:03.447] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:10:19.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 05:10:40.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> xd recien subi
+[23May2025 05:11:04.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> vamos a minar
+[23May2025 05:11:20.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> jsjsjsjsjsj
+[23May2025 05:11:30.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 05:11:31.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [Diamonds!]
+[23May2025 05:11:33.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> asi de buena gente soy
+[23May2025 05:11:53.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> suave mano suave
+[23May2025 05:12:46.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:13:09.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> go mina
