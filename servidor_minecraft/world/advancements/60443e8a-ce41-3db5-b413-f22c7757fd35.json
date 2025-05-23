@@ -6996,9 +6996,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-23 05:15:41 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_button": {
+    "criteria": {
+      "has_thing": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
@@ -7020,9 +7032,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-23 05:11:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
@@ -7050,6 +7074,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-23 05:15:41 +0000"
@@ -7062,6 +7110,84 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/diorite_castel_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-23 05:31:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
@@ -7071,6 +7197,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
@@ -7092,9 +7230,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
@@ -7110,15 +7278,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_button_stonecutter": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-23 05:11:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
@@ -7134,15 +7326,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/diorite_castel_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
@@ -7170,6 +7380,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
@@ -7182,9 +7404,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-23 05:11:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
@@ -7236,6 +7488,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
@@ -7248,9 +7512,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 05:18:23 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tiles_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-23 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-23 05:25:59 +0000"
     },
     "done": true
   },
