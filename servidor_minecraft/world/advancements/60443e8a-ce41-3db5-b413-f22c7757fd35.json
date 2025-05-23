@@ -6618,18 +6618,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-05-23 04:31:45 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-05-23 04:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-23 03:43:32 +0000"
@@ -6648,12 +6636,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-23 04:45:06 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/stone_large_button": {
     "criteria": {
       "has_thing": "2025-05-23 03:43:32 +0000"
@@ -6666,27 +6648,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-23 04:08:39 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2025-05-23 03:43:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-05-23 04:45:06 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-05-23 04:31:45 +0000"
     },
     "done": true
   },
@@ -6696,45 +6660,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/smooth_stone_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-05-23 04:31:45 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/gray_shower_towel": {
-    "criteria": {
-      "has_gray_wool": "2025-05-23 04:45:06 +0000"
-    },
-    "done": true
-  },
-  "createloveandwar:recipes/misc/raw_sulphur_block": {
-    "criteria": {
-      "has_raw_sulphur": "2025-05-23 04:09:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-05-23 04:33:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-05-23 03:43:32 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/soul_lantern_lever": {
-    "criteria": {
-      "has_thing": "2025-05-23 04:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-23 04:31:45 +0000"
     },
     "done": true
   },
@@ -6747,12 +6675,6 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-23 03:43:32 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/soul_lantern_button": {
-    "criteria": {
-      "has_thing": "2025-05-23 04:45:52 +0000"
     },
     "done": true
   },
@@ -6774,24 +6696,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-05-23 04:07:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-23 04:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-05-23 04:48:23 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stone_table_natural": {
     "criteria": {
       "stone_table_natural": "2025-05-23 03:43:32 +0000"
@@ -6804,18 +6708,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-23 04:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-05-23 04:07:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-23 03:43:32 +0000"
@@ -6825,18 +6717,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-05-23 03:43:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-05-23 04:31:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-05-23 04:33:57 +0000"
     },
     "done": true
   },
@@ -6858,51 +6738,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-23 04:33:57 +0000"
-    },
-    "done": true
-  },
-  "createloveandwar:recipes/misc/sulphur_from_blasting_raw_sulphur": {
-    "criteria": {
-      "has_raw_sulphur": "2025-05-23 04:09:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-23 04:08:39 +0000"
-    },
-    "done": true
-  },
-  "createloveandwar:recipes/misc/sulphur_from_smelting_raw_sulphur": {
-    "criteria": {
-      "has_raw_sulphur": "2025-05-23 04:09:58 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stone_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-23 03:43:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-05-23 04:31:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-23 04:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-05-23 04:45:06 +0000"
     },
     "done": true
   },
@@ -6936,18 +6774,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-23 04:31:45 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_gray": {
-    "criteria": {
-      "oak_chair_classic_gray": "2025-05-23 04:45:06 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stone_chair_dinner": {
     "criteria": {
       "stone_chair_dinner": "2025-05-23 03:43:32 +0000"
@@ -6966,6 +6792,108 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-23 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-23 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 04:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 04:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 04:08:39 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/raw_sulphur_block": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-23 04:09:58 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/sulphur_from_blasting_raw_sulphur": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-23 04:09:58 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/sulphur_from_smelting_raw_sulphur": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-23 04:09:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-23 04:31:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/smooth_stone_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-23 04:31:45 +0000"
@@ -6978,9 +6906,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
-      "has_raw_copper": "2025-05-23 04:08:39 +0000"
+      "has_ingredient": "2025-05-23 04:33:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-05-23 04:33:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 04:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-23 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-23 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-05-23 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-23 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-05-23 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_lantern_lever": {
+    "criteria": {
+      "has_thing": "2025-05-23 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_lantern_button": {
+    "criteria": {
+      "has_thing": "2025-05-23 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-23 04:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-23 04:48:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-23 04:48:23 +0000"
     },
     "done": true
   },
