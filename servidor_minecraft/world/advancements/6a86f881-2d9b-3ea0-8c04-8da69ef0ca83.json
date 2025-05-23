@@ -9522,5 +9522,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-05-23 06:19:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
