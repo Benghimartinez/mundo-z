@@ -3745,7 +3745,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-05-21 19:34:32 +0000"
+      "sugar_cane": "2025-05-21 19:34:32 +0000",
+      "wheat": "2025-05-23 03:32:11 +0000"
     },
     "done": false
   },
@@ -9365,6 +9366,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-23 01:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-23 03:32:11 +0000"
     },
     "done": true
   },
