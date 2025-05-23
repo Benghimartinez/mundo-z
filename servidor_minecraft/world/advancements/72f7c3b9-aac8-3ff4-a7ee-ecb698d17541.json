@@ -5,9 +5,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-05-23 03:55:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -35,15 +77,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-05-23 03:40:22 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement_0": "2025-05-23 03:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -95,15 +167,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 03:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:33 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/magenta_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-23 03:53:38 +0000"
     },
     "done": true
   },
@@ -203,6 +311,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:33 +0000"
@@ -239,6 +353,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -263,6 +383,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-05-23 03:40:22 +0000"
@@ -275,15 +401,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -341,9 +503,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -353,15 +539,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-05-23 03:48:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -389,9 +623,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -401,9 +647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/purple_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -419,6 +677,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
@@ -431,15 +695,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-23 03:44:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-23 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
     },
     "done": true
   },
@@ -461,6 +755,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -479,6 +791,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -488,6 +806,24 @@
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -515,15 +851,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-23 03:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-23 03:41:42 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/mirror": {
+    "criteria": {
+      "get_glass_block": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -539,6 +923,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
@@ -551,15 +941,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_gray_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
     },
     "done": true
   },
@@ -584,6 +1016,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -641,9 +1079,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/decorations/cobbled_concrete": {
+    "criteria": {
+      "has_thing": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -659,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-23 03:52:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-05-23 03:41:42 +0000"
@@ -671,15 +1139,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/yellow_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -707,9 +1193,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-23 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -746,6 +1244,24 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-05-23 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -803,6 +1319,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 03:49:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-05-23 03:43:16 +0000"
@@ -821,15 +1349,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-05-23 03:41:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-23 03:51:43 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/iron_button": {
     "criteria": {
       "has_thing": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sand_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -851,6 +1415,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -863,15 +1433,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
     },
     "done": true
   },
@@ -893,6 +1499,51 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:blaze": "2025-05-23 03:55:14 +0000",
+      "minecraft:pillager": "2025-05-23 03:55:14 +0000",
+      "minecraft:skeleton": "2025-05-23 03:55:14 +0000",
+      "minecraft:elder_guardian": "2025-05-23 03:55:14 +0000",
+      "minecraft:zoglin": "2025-05-23 03:55:14 +0000",
+      "minecraft:ravager": "2025-05-23 03:55:14 +0000",
+      "minecraft:ghast": "2025-05-23 03:55:14 +0000",
+      "minecraft:hoglin": "2025-05-23 03:55:14 +0000",
+      "minecraft:guardian": "2025-05-23 03:55:14 +0000",
+      "minecraft:vindicator": "2025-05-23 03:55:14 +0000",
+      "minecraft:magma_cube": "2025-05-23 03:55:14 +0000",
+      "minecraft:piglin_brute": "2025-05-23 03:55:14 +0000",
+      "minecraft:spider": "2025-05-23 03:55:14 +0000",
+      "minecraft:creeper": "2025-05-23 03:55:14 +0000",
+      "minecraft:wither": "2025-05-23 03:55:14 +0000",
+      "minecraft:evoker": "2025-05-23 03:55:14 +0000",
+      "minecraft:slime": "2025-05-23 03:55:14 +0000",
+      "minecraft:phantom": "2025-05-23 03:55:14 +0000",
+      "minecraft:zombified_piglin": "2025-05-23 03:55:14 +0000",
+      "minecraft:witch": "2025-05-23 03:55:14 +0000",
+      "minecraft:wither_skeleton": "2025-05-23 03:55:14 +0000",
+      "minecraft:husk": "2025-05-23 03:55:14 +0000",
+      "minecraft:ender_dragon": "2025-05-23 03:55:14 +0000",
+      "minecraft:shulker": "2025-05-23 03:55:14 +0000",
+      "minecraft:cave_spider": "2025-05-23 03:55:14 +0000",
+      "minecraft:piglin": "2025-05-23 03:55:14 +0000",
+      "minecraft:enderman": "2025-05-23 03:55:14 +0000",
+      "minecraft:silverfish": "2025-05-23 03:55:14 +0000",
+      "minecraft:stray": "2025-05-23 03:55:14 +0000",
+      "minecraft:endermite": "2025-05-23 03:55:14 +0000",
+      "minecraft:vex": "2025-05-23 03:55:14 +0000",
+      "minecraft:zombie": "2025-05-23 03:55:14 +0000",
+      "minecraft:drowned": "2025-05-23 03:55:14 +0000",
+      "minecraft:zombie_villager": "2025-05-23 03:55:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/metal_plate_wall_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-05-23 03:43:38 +0000"
@@ -911,9 +1562,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-23 03:46:28 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/console_button": {
     "criteria": {
       "has_thing": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -929,9 +1604,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sand_button": {
+    "criteria": {
+      "has_thing": "2025-05-23 03:48:13 +0000"
     },
     "done": true
   },
@@ -950,6 +1643,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-23 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -983,6 +1682,60 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/sandy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-23 03:51:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-05-23 03:43:16 +0000"
@@ -1007,9 +1760,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/spatula": {
     "criteria": {
       "has_leather": "2025-05-23 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
     },
     "done": true
   },
@@ -1037,15 +1802,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/orange_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/glass_tiles_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
     },
     "done": true
   },
@@ -1091,9 +1886,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-05-23 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1109,9 +1952,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:root": {
     "criteria": {
       "show": "2025-05-23 03:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
     },
     "done": true
   },
@@ -1169,6 +2024,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/purple_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
@@ -1193,6 +2066,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -1211,15 +2090,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1277,9 +2174,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-23 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1313,9 +2222,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
     },
     "done": true
   },
@@ -1325,9 +2246,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-23 03:47:12 +0000"
     },
     "done": true
   },
@@ -1343,6 +2276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-23 03:43:16 +0000"
@@ -1355,9 +2294,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-23 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -1373,9 +2324,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "ags_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement_0": "2025-05-23 03:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1391,6 +2360,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-23 03:55:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -1403,6 +2390,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
@@ -1412,6 +2405,12 @@
   "pfm:recipes/furniture/stripped_oak_table_basic": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
     },
     "done": true
   },
@@ -1436,6 +2435,24 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/decorations/item_frame_cover_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1511,6 +2528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-23 03:43:13 +0000"
@@ -1547,6 +2570,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
@@ -1559,9 +2594,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/big_console_lever": {
     "criteria": {
       "has_thing": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -1571,9 +2618,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-23 03:48:13 +0000"
     },
     "done": true
   },
@@ -1589,15 +2648,63 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-23 03:51:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_table_log": {
     "criteria": {
       "has_log": "2025-05-23 03:44:46 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1643,9 +2750,21 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/bronze_block": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-23 03:47:12 +0000"
+    },
+    "done": true
+  },
   "zombiekit:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-05-23 03:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-23 03:46:28 +0000"
     },
     "done": true
   },
@@ -1658,6 +2777,18 @@
   "infinitybuttons:recipe/redstone/big_console_button": {
     "criteria": {
       "has_thing": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1697,9 +2828,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-05-23 03:40:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -1712,6 +2855,24 @@
   "infinitybuttons:recipe/redstone/iron_large_button": {
     "criteria": {
       "has_thing": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-05-23 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -1742,6 +2903,24 @@
   "pfm:recipes/furniture/pink_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/ball_bearings": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-23 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
     },
     "done": true
   },
@@ -1781,6 +2960,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
@@ -1805,6 +2990,12 @@
     },
     "done": true
   },
+  "thingamajigs:recipes/building_blocks/reinforced_glass": {
+    "criteria": {
+      "get_glass_inventory": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
@@ -1817,6 +3008,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
@@ -1826,6 +3035,12 @@
   "pfm:recipes/furniture/redwood_biomesoplenty_log_stool": {
     "criteria": {
       "has_log": "2025-05-23 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },
@@ -1847,9 +3062,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_log_stool": {
     "criteria": {
       "has_log": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 03:48:13 +0000"
     },
     "done": true
   },
@@ -1859,6 +3092,18 @@
       "minecraft:ocean": "2025-05-23 03:41:13 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/furniture/light_wood_kitchen_wall_counter": {
     "criteria": {
@@ -1872,6 +3117,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-05-23 03:43:16 +0000"
@@ -1881,6 +3132,12 @@
   "design_decor:recipes/building_blocks/metal_plate_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-23 03:52:50 +0000"
     },
     "done": true
   },
@@ -1914,6 +3171,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-05-23 03:54:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -1929,6 +3198,12 @@
   "pfm:recipes/furniture/stripped_oak_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 03:49:58 +0000"
     },
     "done": true
   },

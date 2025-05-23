@@ -22684,3 +22684,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23May2025 03:47:58.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [23May2025 03:49:45.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [23May2025 03:49:46.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:50:07.902] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:50:45.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 03:50:45.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 03:51:18.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 03:51:21.051] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[23May2025 03:51:21.052] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[23May2025 03:51:21.053] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[23May2025 03:51:21.055] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 49
+[23May2025 03:51:21.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[23May2025 03:51:21.061] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@37bf270f, b=54, e=80}, net.minecraft.world.CompoundContainer@362539cf=InventoryMapping{i=net.minecraft.world.CompoundContainer@362539cf, c=net.minecraft.world.inventory.ChestMenu@37bf270f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@37bf270f, b=81, e=89}}
+[23May2025 03:51:21.061] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@362539cf, c=net.minecraft.world.inventory.ChestMenu@37bf270f, b=0, e=53}
+[23May2025 03:52:50.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Stone Age]
+[23May2025 03:53:38.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Sweet Dreams]
+[23May2025 03:53:49.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [First Day]
+[23May2025 03:54:04.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:54:05.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 03:54:37.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 03:54:49.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:54:49.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:55:06.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 03:55:07.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:55:07.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:55:08.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:55:08.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:55:10.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:55:11.990] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:55:12.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:55:14.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Monster Hunter]
+[23May2025 03:55:45.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 03:55:45.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 03:56:08.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:56:29.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:56:36.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:57:22.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:57:32.560] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$eed54f5463c246b5a70e29c9c9a8f20b (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[23May2025 03:57:32.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [We Need to Go Deeper]
+[23May2025 03:57:32.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[23May2025 03:57:32.786] [Server thread/DEBUG] [mixin/]: Mixing ai.task.memory_change_counting.MultiTickTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.Behavior
+[23May2025 03:57:32.787] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.task.memory_change_counting.MultiTickTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 03:57:32.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[23May2025 03:57:32.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[23May2025 03:57:32.809] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.CompositeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.GateBehavior
+[23May2025 03:57:32.809] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.CompositeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 03:57:32.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[23May2025 03:57:32.817] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.WeightedListMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[23May2025 03:57:32.818] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.WeightedListMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 03:57:32.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[23May2025 03:57:32.868] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[23May2025 03:57:33.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[23May2025 03:57:46.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:57:46.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:57:46.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:57:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Assasin Black Ops
+[23May2025 03:57:47.929] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:57:47.936] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['the_nether']' to 'Player:'natusaurius'['overworld']'
+[23May2025 03:59:28.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 03:59:49.793] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 03:59:51.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 04:00:00.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
