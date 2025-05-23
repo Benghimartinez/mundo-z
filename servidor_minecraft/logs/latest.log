@@ -5510,3 +5510,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23May2025 05:11:53.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> suave mano suave
 [23May2025 05:12:46.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [23May2025 05:13:09.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> go mina
+[23May2025 05:13:20.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> ven pues
+[23May2025 05:13:23.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:15:05.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:15:06.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[23May2025 05:15:08.501] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[23May2025 05:15:47.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [Not Today, Thank You]
+[23May2025 05:16:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX died
+[23May2025 05:16:29.799] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[23May2025 05:16:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> xdddd
+[23May2025 05:16:36.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:16:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> tepeame
+[23May2025 05:17:04.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported Asias_SX to benghijairo_GT]
+[23May2025 05:17:16.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:17:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> agua
+[23May2025 05:17:49.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 05:18:43.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 05:18:59.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Zombie
+[23May2025 05:19:07.206] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 05:19:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported benghijairo_GT to Asias_SX]
+[23May2025 05:21:27.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 05:22:13.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
