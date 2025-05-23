@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "mekanismexplosives:mekanism_explosives_advancements": {
+    "criteria": {
+      "mekanism_explosives_advancements": "2025-05-23 04:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-23 03:57:33 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-23 04:41:16 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:33 +0000"
@@ -413,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-23 04:46:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2025-05-23 03:43:16 +0000"
@@ -422,6 +440,12 @@
   "infinitybuttons:recipe/redstone/gravel_large_button": {
     "criteria": {
       "has_thing": "2025-05-23 04:08:32 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-23 04:50:27 +0000"
     },
     "done": true
   },
@@ -506,6 +530,12 @@
   "pfm:recipes/furniture/oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-23 04:46:37 +0000"
     },
     "done": true
   },
@@ -971,6 +1001,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/warped_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-23 04:50:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -1265,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-23 04:50:27 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-05-23 04:08:18 +0000"
@@ -1457,6 +1499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-23 04:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -1562,6 +1610,12 @@
   "pfm:recipes/furniture/lime_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-23 04:46:37 +0000"
     },
     "done": true
   },
@@ -1775,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-23 04:41:16 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_redwood_biomesoplenty_chair_modern": {
     "criteria": {
       "has_planks": "2025-05-23 04:32:47 +0000"
@@ -1790,6 +1850,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-23 04:39:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-23 04:41:16 +0000"
     },
     "done": true
   },
@@ -3051,6 +3117,12 @@
     },
     "done": true
   },
+  "apocalypsenow:thesurvivor": {
+    "criteria": {
+      "thesurvivor_0": "2025-05-23 04:50:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-23 03:49:58 +0000"
@@ -3084,6 +3156,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-23 04:41:16 +0000"
     },
     "done": true
   },
@@ -3843,6 +3921,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/crimson_nylium_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-23 04:50:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2025-05-23 04:00:22 +0000"
@@ -4005,6 +4089,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-23 04:41:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-23 04:08:58 +0000"
@@ -4050,6 +4140,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-23 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-23 04:46:37 +0000"
     },
     "done": true
   },
@@ -4804,6 +4900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-23 04:46:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_planks": "2025-05-23 04:00:22 +0000"
@@ -4954,6 +5056,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-23 04:46:37 +0000"
     },
     "done": true
   },
