@@ -9607,6 +9607,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 23:37:04 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/green_safe_emergency_button": {
     "criteria": {
       "has_thing": "2025-05-23 23:27:18 +0000"
@@ -9622,6 +9628,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_basin": {
     "criteria": {
       "has_green_dye": "2025-05-23 23:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-23 23:37:04 +0000"
     },
     "done": true
   },

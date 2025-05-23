@@ -22124,3 +22124,74 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23May2025 23:30:54.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23May2025 23:33:09.076] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of benghijairo_GT: {disabled=false, disconnected=true, uuid=6a86f881-2d9b-3ea0-8c04-8da69ef0ca83, name=benghijairo_GT, group=null}
 [23May2025 23:34:35.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[23May2025 23:35:54.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 23:35:54.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 23:39:11.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 23:39:37.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 23:39:40.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 23:40:54.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 23:40:54.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 23:43:19.273] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:19.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was slain by Runner
+[23May2025 23:43:25.111] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:25.118] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 23:43:29.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 23:43:33.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:34.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:34.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:35.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:35.975] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:36.576] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:37.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:37.576] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:38.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:38.675] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:39.223] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:39.522] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:39.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:40.524] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:41.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:41.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:42.374] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:42.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:43.474] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:44.073] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:44.674] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:45.173] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:45.777] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:46.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:46.823] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:47.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:48.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:48.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:49.374] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:49.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:50.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:51.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 23:43:51.126] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:51.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:52.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:52.825] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:53.477] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:54.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:54.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:55.174] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:55.874] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:56.375] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:56.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:57.375] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:57.974] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:58.524] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:59.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:43:59.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:44:00.174] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:44:00.673] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:44:01.425] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:44:01.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT died
+[23May2025 23:44:02.736] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 23:44:02.737] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 23:44:47.379] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[23May2025 23:44:47.380] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[23May2025 23:45:13.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 23:45:26.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 23:45:27.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
