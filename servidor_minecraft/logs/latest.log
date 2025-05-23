@@ -5493,3 +5493,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23May2025 02:23:41.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [23May2025 02:24:14.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [23May2025 02:25:01.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:25:21.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:26:16.461] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[23May2025 02:26:50.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT went up in flames
+[23May2025 02:26:52.558] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 02:27:02.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:27:02.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:30:58.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT died
+[23May2025 02:31:11.417] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 02:32:38.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already

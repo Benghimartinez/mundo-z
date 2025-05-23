@@ -21876,3 +21876,95 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23May2025 02:23:41.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [23May2025 02:24:14.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [23May2025 02:25:01.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:25:21.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:25:22.162] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:25:22.162] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:25:23.362] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:25:23.362] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:01.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 02:26:01.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 02:26:16.461] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[23May2025 02:26:42.560] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:43.062] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:43.562] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:44.061] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:44.563] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:45.063] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:45.562] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:46.061] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:46.561] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:47.061] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:47.562] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:48.063] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:48.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:49.062] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:49.561] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:50.061] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:50.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:50.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT went up in flames
+[23May2025 02:26:52.552] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:26:52.558] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 02:27:02.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:27:02.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:30:29.164] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:29.164] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:29.812] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:30.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:30.812] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:31.363] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:31.860] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:32.362] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:32.864] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:33.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:34.262] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:34.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:35.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:35.811] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:36.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:36.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:37.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:37.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:38.511] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:39.062] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:39.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:40.415] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:40.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:41.567] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:42.114] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:42.662] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:43.213] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:43.713] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:44.212] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:44.814] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:45.319] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:45.912] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:46.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:46.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:47.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:48.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:48.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:49.064] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:49.711] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:50.262] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:50.761] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:51.412] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:52.013] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:52.511] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:53.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:53.911] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:54.413] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:55.011] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:55.514] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:56.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:56.713] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:57.410] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:57.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:58.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:30:58.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT died
+[23May2025 02:31:01.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 02:31:01.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 02:31:11.417] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:31:11.417] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 02:32:38.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:33:18.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 02:33:18.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
