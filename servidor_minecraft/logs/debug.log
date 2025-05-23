@@ -21785,3 +21785,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23May2025 01:44:11.825] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [23May2025 01:44:11.865] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
 [23May2025 01:44:11.865] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[23May2025 01:45:48.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 01:45:53.087] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.BirdPathNodeMakerMixin from lithium.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[23May2025 01:45:53.087] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.pathing.BirdPathNodeMakerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 01:46:01.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 01:46:01.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 01:46:32.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 01:47:21.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 01:47:43.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
+[23May2025 01:47:58.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:47:58.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:47:59.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:47:59.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:48:27.758] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 01:48:41.483] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[23May2025 01:48:41.484] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[23May2025 01:48:41.485] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[23May2025 01:48:41.486] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 76
+[23May2025 01:48:41.490] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[23May2025 01:48:41.492] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@466eb858, b=81, e=89}, net.minecraft.world.CompoundContainer@f55adec=InventoryMapping{i=net.minecraft.world.CompoundContainer@f55adec, c=net.minecraft.world.inventory.ChestMenu@466eb858, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@466eb858, b=54, e=80}}
+[23May2025 01:48:41.492] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@466eb858, b=54, e=80}
+[23May2025 01:48:50.259] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 01:48:51.409] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 01:49:42.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:43.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:44.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:45.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:46.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:47.013] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:48.015] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:49.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:50.014] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:51.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:51.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[23May2025 01:49:51.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT drowned
+[23May2025 01:49:54.214] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:49:54.214] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[23May2025 01:51:01.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 01:51:01.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 01:51:06.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 01:53:03.338] [FastSuite Recipe Lookup Thread: 6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
+[23May2025 01:55:47.408] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 01:56:01.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 01:56:01.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 01:56:59.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 01:57:25.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/item/ItemHelper$ExtractionCountMode
+[23May2025 01:57:38.611] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23May2025 01:57:47.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[23May2025 01:58:08.808] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 01:58:11.408] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 01:58:20.808] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 01:59:50.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 02:00:16.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23May2025 02:00:36.807] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 02:01:01.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 02:01:01.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 02:03:20.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23May2025 02:03:41.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:04:14.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23May2025 02:04:30.762] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
