@@ -65,9 +65,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -263,6 +275,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-05-23 03:40:22 +0000"
@@ -281,9 +299,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-23 04:39:40 +0000"
     },
     "done": true
   },
@@ -488,6 +518,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-05-23 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -698,6 +734,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-23 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-23 04:35:18 +0000"
     },
     "done": true
   },
@@ -1043,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-23 04:35:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-23 03:49:58 +0000"
@@ -1115,9 +1163,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-23 04:39:40 +0000"
     },
     "done": true
   },
@@ -1208,6 +1268,12 @@
   "xkdeco:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-05-23 04:08:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -1310,6 +1376,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-05-23 04:00:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -1433,6 +1505,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-23 04:39:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-05-23 03:43:38 +0000"
@@ -1499,6 +1577,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-05-23 04:39:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_gray_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
@@ -1514,6 +1598,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-23 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -1637,6 +1727,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -1679,9 +1775,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/diorite_castel_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-23 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-23 04:39:40 +0000"
     },
     "done": true
   },
@@ -1925,6 +2033,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-05-23 03:43:16 +0000"
@@ -1976,6 +2090,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-23 03:51:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -2048,6 +2168,12 @@
   "pfm:recipes/furniture/iron_oven_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-23 04:39:40 +0000"
     },
     "done": true
   },
@@ -2296,6 +2422,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-23 04:35:56 +0000",
       "bread": "2025-05-23 03:46:28 +0000"
     },
     "done": false
@@ -2309,6 +2436,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-05-23 04:00:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -2441,6 +2574,12 @@
   "design_decor:recipes/building_blocks/metal_sheet_wall_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -2720,6 +2859,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_table_log": {
+    "criteria": {
+      "has_log": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_tile_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-23 04:05:47 +0000"
@@ -2948,6 +3093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-23 04:39:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_chair_classic": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
@@ -2957,6 +3108,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-23 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-23 04:39:40 +0000"
     },
     "done": true
   },
@@ -3302,6 +3459,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2025-05-23 04:32:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -3338,6 +3501,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-23 04:08:58 +0000"
@@ -3347,6 +3516,12 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-23 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -3413,6 +3588,12 @@
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-23 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_chair": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -3650,6 +3831,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-23 04:08:32 +0000"
@@ -3677,6 +3864,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -3824,6 +4017,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 04:35:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-05-23 03:52:50 +0000"
@@ -3908,6 +4107,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2025-05-23 04:03:49 +0000",
@@ -3924,6 +4129,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-23 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-23 04:39:40 +0000"
     },
     "done": true
   },
@@ -3948,6 +4159,18 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-23 04:35:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 04:35:18 +0000"
     },
     "done": true
   },
@@ -4026,6 +4249,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2025-05-23 04:00:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-23 04:39:40 +0000"
     },
     "done": true
   },
@@ -4203,6 +4432,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2025-05-23 04:33:29 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/diorite_large_button": {
     "criteria": {
       "has_thing": "2025-05-23 04:09:41 +0000"
@@ -4245,6 +4480,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/oak_bark": {
+    "criteria": {
+      "has_copper_block": "2025-05-23 04:33:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 03:43:38 +0000"
@@ -4254,6 +4495,12 @@
   "pfm:recipes/furniture/stripped_oak_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-23 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
     },
     "done": true
   },
@@ -4533,6 +4780,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_redwood_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:32:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-23 03:44:33 +0000"
@@ -4591,7 +4844,8 @@
     "criteria": {
       "minecraft:beach": "2025-05-23 03:40:23 +0000",
       "minecraft:forest": "2025-05-23 04:02:59 +0000",
-      "minecraft:ocean": "2025-05-23 03:41:13 +0000"
+      "minecraft:ocean": "2025-05-23 03:41:13 +0000",
+      "minecraft:plains": "2025-05-23 04:34:08 +0000"
     },
     "done": false
   },
