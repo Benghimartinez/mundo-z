@@ -1091,6 +1091,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-24 03:59:30 +0000",
       "minecraft:skeleton": "2025-05-21 19:59:39 +0000",
       "minecraft:spider": "2025-05-24 02:59:54 +0000",
       "minecraft:creeper": "2025-05-22 03:14:02 +0000",
@@ -10480,6 +10481,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-24 03:57:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:56:26 +0000"
@@ -10558,9 +10565,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-24 04:00:27 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_chair_modern": {
     "criteria": {
       "quartz_chair_modern": "2025-05-24 02:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-24 04:00:27 +0000"
     },
     "done": true
   },

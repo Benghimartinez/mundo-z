@@ -5868,3 +5868,30 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [24May2025 03:50:15.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [24May2025 03:52:56.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [24May2025 03:54:04.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:54:31.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:55:20.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:55:35.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:55:50.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:56:00.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Suit Up]
+[24May2025 03:56:21.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:56:22.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:56:40.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:56:59.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Diamonds!]
+[24May2025 03:57:31.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[24May2025 03:57:31.375] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[24May2025 03:57:41.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Chest Slayer]
+[24May2025 03:57:43.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:58:08.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:58:57.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:59:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported benghijairo_GT to Asias_SX]
+[24May2025 03:59:42.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:59:48.274] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[24May2025 03:59:48.274] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24May2025 03:59:50.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:59:53.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:59:55.232] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[24May2025 03:59:58.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
+[24May2025 04:00:50.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 04:02:22.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 04:03:22.420] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[24May2025 04:04:01.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already

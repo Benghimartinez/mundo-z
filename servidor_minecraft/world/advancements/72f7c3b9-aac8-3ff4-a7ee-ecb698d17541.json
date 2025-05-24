@@ -5362,6 +5362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_birch_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
@@ -5377,6 +5383,18 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
     },
     "done": true
   },
@@ -5401,6 +5419,12 @@
   "pfm:recipes/furniture/oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
     },
     "done": true
   },
@@ -5434,11 +5458,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-05-24 03:15:03 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
@@ -5449,6 +5485,12 @@
   "mekanismadditions:not_the_babies": {
     "criteria": {
       "baby_creeper": "2025-05-24 03:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -5494,6 +5536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-05-24 03:42:30 +0000"
@@ -5509,6 +5557,18 @@
   "pfm:recipes/furniture/stripped_birch_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-24 03:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-24 03:56:00 +0000"
     },
     "done": true
   },
@@ -5536,6 +5596,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-05-24 02:57:13 +0000"
@@ -5560,15 +5626,63 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_log_stool": {
     "criteria": {
       "has_log": "2025-05-24 03:18:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_birch_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
     },
     "done": true
   },
@@ -5590,9 +5704,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-24 03:11:55 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/redstone_torch_lever": {
+    "criteria": {
+      "has_thing": "2025-05-24 04:01:00 +0000"
     },
     "done": true
   },
@@ -5602,9 +5740,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
     },
     "done": true
   },
@@ -5620,6 +5770,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_chair": {
     "criteria": {
       "has_planks": "2025-05-24 02:57:13 +0000"
@@ -5632,9 +5794,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_birch_chair_modern": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
     },
     "done": true
   },
@@ -5644,15 +5818,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_table_dinner": {
     "criteria": {
       "has_planks": "2025-05-24 02:57:13 +0000"
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/redstone_torch_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "ags_day_counter:tenth_day_advancement": {
     "criteria": {
       "tenth_day_advancement_0": "2025-05-24 03:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -5698,9 +5890,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_table_basic": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-24 04:01:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:00 +0000"
     },
     "done": true
   },
@@ -5719,6 +5935,12 @@
   "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
     "criteria": {
       "has_item": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -5746,6 +5968,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-24 03:19:02 +0000"
@@ -5770,9 +5998,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-24 02:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
     },
     "done": true
   },
@@ -5782,9 +6028,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
     },
     "done": true
   },
@@ -5800,6 +6058,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-24 04:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diamond_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-24 04:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-24 02:57:13 +0000"
@@ -5812,9 +6094,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
     },
     "done": true
   },
@@ -5842,15 +6148,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-24 03:42:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_table_dinner": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -5878,9 +6202,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-05-24 03:28:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
     },
     "done": true
   },
@@ -5902,6 +6244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
@@ -5914,9 +6262,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_birch_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -5926,15 +6286,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_birch_raw_table_log": {
     "criteria": {
       "has_log": "2025-05-24 03:19:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-24 03:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -5950,6 +6328,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/diamond_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
@@ -5959,6 +6343,18 @@
   "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-24 03:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -5992,6 +6388,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/picnic_table": {
     "criteria": {
       "get_planks": "2025-05-24 03:19:02 +0000"
@@ -6007,6 +6409,12 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-05-24 03:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -6034,6 +6442,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_raw_table_log": {
     "criteria": {
       "has_log": "2025-05-24 03:18:16 +0000"
@@ -6046,9 +6460,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-05-24 04:01:00 +0000"
     },
     "done": true
   },
@@ -6094,9 +6520,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-24 03:56:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-24 03:57:37 +0000"
     },
     "done": true
   },
@@ -6121,6 +6559,12 @@
   "pfm:recipes/furniture/oak_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-24 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-24 03:56:59 +0000"
     },
     "done": true
   },
