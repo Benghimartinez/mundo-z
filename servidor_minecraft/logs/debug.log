@@ -23098,3 +23098,67 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [24May2025 03:33:05.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
 [24May2025 03:33:50.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 03:33:50.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 03:34:16.966] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:34.695] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:35.180] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:35.678] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:36.179] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:36.680] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:37.181] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:37.678] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:38.179] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:38.680] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:39.180] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:39.683] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:39.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX went up in flames
+[24May2025 03:35:41.149] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:35:41.149] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[24May2025 03:35:50.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:36:11.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:36:47.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:36:52.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:37:13.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Keep Going]
+[24May2025 03:37:33.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:38:16.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:38:22.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:38:29.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:38:50.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 03:38:50.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 03:38:53.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:39:18.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:39:34.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:39:43.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:40:24.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:40:27.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:41:03.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:41:19.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:41:22.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:41:22.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:41:50.749] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:41:50.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was slain by Soldier
+[24May2025 03:41:53.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:41:53.387] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[24May2025 03:41:54.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:43:50.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 03:43:50.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 03:45:11.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:45:37.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:45:41.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[24May2025 03:47:02.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:47:38.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:48:01.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:48:07.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:48:48.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:48:50.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 03:48:50.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 03:49:36.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:49:51.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:50:06.978] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24May2025 03:50:10.653] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruins2
+[24May2025 03:50:12.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:50:15.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:50:15.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:52:56.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:53:50.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 03:53:50.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 03:54:04.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
