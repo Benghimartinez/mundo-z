@@ -81,3 +81,30 @@
 [24May2025 01:36:09.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [24May2025 01:36:48.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [24May2025 01:37:01.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:37:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:37:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 01:38:31.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:39:06.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:39:10.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:39:17.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 01:39:24.520] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:39:37.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:40:13.520] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 01:42:44.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:42:52.030] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4702cef1[id=<null>,name=Asias_SX,properties={},legacy=false] (/127.57.62.112:56709) lost connection: Disconnected
+[24May2025 01:43:40.875] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72f2afbd[id=<null>,name=Asias_SX,properties={},legacy=false] (/127.57.62.112:42103) lost connection: Disconnected
+[24May2025 01:44:20.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:44:20.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:45:02.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:45:22.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:46:09.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asias_SX[/127.57.62.112:44511] logged in with entity id 62306 at (2072.345079718287, 71.0, 497.0242126757)
+[24May2025 01:46:09.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX joined the game
+[24May2025 01:46:09.325] [Server thread/INFO] [Jade/]: Syncing config to Asias_SX (60443e8a-ce41-3db5-b413-f22c7757fd35)
+[24May2025 01:46:09.329] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] seen for the first time as 'Player:'Asias_SX'['overworld']'
+[24May2025 01:46:09.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 01:46:10.810] [Server thread/INFO] [ping-wheel/]: Channel update: Asias_SX -> default
+[24May2025 01:46:10.811] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asias_SX (18)
+[24May2025 01:46:10.811] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asias_SX
+[24May2025 01:46:37.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:46:51.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 01:47:06.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@179ae930[id=<null>,name=natusaurius,properties={},legacy=false] (/127.195.198.26:47249) lost connection: Disconnected
