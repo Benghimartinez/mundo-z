@@ -108,3 +108,26 @@
 [24May2025 01:46:37.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [24May2025 01:46:51.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [24May2025 01:47:06.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@179ae930[id=<null>,name=natusaurius,properties={},legacy=false] (/127.195.198.26:47249) lost connection: Disconnected
+[24May2025 01:47:56.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:48:28.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:49:17.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natusaurius[/127.195.198.26:48121] logged in with entity id 63600 at (2068.843749930318, 59.879174605963556, 511.7309882427288)
+[24May2025 01:49:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius joined the game
+[24May2025 01:49:17.722] [Server thread/INFO] [Jade/]: Syncing config to natusaurius (72f7c3b9-aac8-3ff4-a7ee-ecb698d17541)
+[24May2025 01:49:17.728] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] seen for the first time as 'Player:'natusaurius'['overworld']'
+[24May2025 01:49:18.591] [Server thread/INFO] [ping-wheel/]: Channel update: natusaurius -> default
+[24May2025 01:49:18.627] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of natusaurius (18)
+[24May2025 01:49:18.627] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to natusaurius
+[24May2025 01:49:39.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24May2025 01:49:39.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> te tepeo?
+[24May2025 01:49:42.538] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[24May2025 01:51:02.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:51:48.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:51:57.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 01:52:15.720] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[24May2025 01:53:09.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 01:53:14.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:55:33.721] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 01:55:38.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[24May2025 01:55:38.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[24May2025 01:57:10.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 01:57:28.671] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
