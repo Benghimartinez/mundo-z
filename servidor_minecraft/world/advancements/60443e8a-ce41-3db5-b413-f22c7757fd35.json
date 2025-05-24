@@ -7579,6 +7579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_the_recipe": "2025-05-24 01:57:22 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
     "criteria": {
       "has_thing": "2025-05-24 01:54:01 +0000"
