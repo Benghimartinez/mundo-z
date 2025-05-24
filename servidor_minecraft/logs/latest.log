@@ -5802,3 +5802,30 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [24May2025 03:19:40.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported Asias_SX to benghijairo_GT]
 [24May2025 03:20:12.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [24May2025 03:21:30.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:24:37.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:24:49.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:25:53.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX drowned
+[24May2025 03:25:55.336] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[24May2025 03:26:03.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:26:11.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:26:48.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:26:48.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:27:02.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:27:31.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:27:36.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:27:46.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:28:52.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:28:52.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:29:02.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:29:08.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:29:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [Bark Off]
+[24May2025 03:29:30.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:29:57.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24May2025 03:29:58.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[24May2025 03:30:29.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:30:36.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24May2025 03:31:03.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:31:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported Asias_SX to benghijairo_GT]
+[24May2025 03:32:42.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24May2025 03:32:52.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24May2025 03:33:05.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]

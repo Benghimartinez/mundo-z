@@ -7623,9 +7623,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/basic_sink": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
     },
     "done": true
   },
@@ -7665,6 +7677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_chair_classic": {
     "criteria": {
       "light_wood_chair_classic": "2025-05-24 02:55:46 +0000"
@@ -7677,15 +7695,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -7719,15 +7785,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/quartz_sand_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -7743,9 +7827,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/warped_nylium_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-24 02:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -7803,15 +7899,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-24 02:46:36 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-24 03:31:14 +0000"
     },
     "done": true
   },
@@ -7875,9 +8001,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/willow_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-24 03:33:00 +0000"
     },
     "done": true
   },
@@ -7893,9 +8031,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -7908,6 +8064,12 @@
   "pfm:recipes/furniture/warped_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -7926,6 +8088,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
     },
     "done": true
   },
@@ -7995,6 +8163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_table_dinner": {
     "criteria": {
       "deepslate_table_dinner": "2025-05-24 03:15:52 +0000"
@@ -8025,6 +8199,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
@@ -8037,6 +8217,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
@@ -8046,6 +8238,12 @@
   "pfm:recipes/furniture/light_wood_table_modern_dinner": {
     "criteria": {
       "light_wood_table_modern_dinner": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -8073,9 +8271,21 @@
     },
     "done": true
   },
+  "thingamajigs:recipes/decorations/change_machine": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:20:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_log": {
+    "criteria": {
+      "has_log": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -8139,6 +8349,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/jungle_bark": {
+    "criteria": {
+      "has_copper_block": "2025-05-24 03:29:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_chair_classic": {
     "criteria": {
       "quartz_chair_classic": "2025-05-24 02:55:46 +0000"
@@ -8148,6 +8364,18 @@
   "pfm:recipes/furniture/dark_wood_chair_modern": {
     "criteria": {
       "dark_wood_chair_modern": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-05-24 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
     },
     "done": true
   },
@@ -8175,6 +8403,36 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/green_tiles": {
+    "criteria": {
+      "has_item": "2025-05-24 03:20:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/emerald_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:20:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_dinner": {
     "criteria": {
       "dark_wood_table_dinner": "2025-05-24 02:55:46 +0000"
@@ -8199,9 +8457,21 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/jungle_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/umbran_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
     },
     "done": true
   },
@@ -8217,6 +8487,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 03:31:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
@@ -8229,9 +8505,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -8277,6 +8565,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/jungle_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-24 03:15:52 +0000"
@@ -8298,6 +8592,18 @@
   "pfm:recipes/furniture/quartz_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/emerald_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -8391,6 +8697,30 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_classic": {
     "criteria": {
       "dark_wood_table_classic": "2025-05-24 02:55:46 +0000"
@@ -8403,9 +8733,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-05-24 03:20:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jacaranda_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
     },
     "done": true
   },
@@ -8427,15 +8787,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/redwood_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2025-05-24 03:29:11 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
@@ -8454,6 +8844,12 @@
   "pfm:recipes/furniture/quartz_table_modern_dinner": {
     "criteria": {
       "quartz_table_modern_dinner": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/ball_bearings": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-24 03:31:14 +0000"
     },
     "done": true
   },
@@ -8487,6 +8883,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
@@ -8508,6 +8910,12 @@
   "pfm:recipes/furniture/quartz_table_dinner": {
     "criteria": {
       "quartz_table_dinner": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-24 03:27:34 +0000"
     },
     "done": true
   },
