@@ -10703,6 +10703,12 @@
     },
     "done": true
   },
+  "apocalypsenow:electricalengineeringiseasy": {
+    "criteria": {
+      "electricalengineeringiseasy_0": "2025-05-24 04:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-05-24 03:15:39 +0000"
@@ -10784,6 +10790,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "apocalypsenow:thechef": {
+    "criteria": {
+      "thechef_0": "2025-05-24 04:08:51 +0000"
     },
     "done": true
   },

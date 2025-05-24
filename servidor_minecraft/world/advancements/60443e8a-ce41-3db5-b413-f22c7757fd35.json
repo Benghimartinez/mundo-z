@@ -7593,6 +7593,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/stone_brick_secret_button": {
     "criteria": {
       "has_thing": "2025-05-24 02:56:05 +0000"
@@ -7638,6 +7644,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -7698,6 +7710,12 @@
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -7791,9 +7809,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/willow_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/quartz_sand_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -7830,6 +7866,18 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-24 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -7893,6 +7941,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dead_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
@@ -7950,6 +8004,12 @@
   "pfm:recipes/furniture/deepslate_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8037,6 +8097,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
@@ -8085,9 +8151,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magic_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8115,9 +8193,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/redwood_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mahogany_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8211,6 +8301,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
@@ -8271,6 +8373,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/decorations/change_machine": {
     "criteria": {
       "has_thing": "2025-05-24 03:20:29 +0000"
@@ -8295,6 +8403,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/palm_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_chair": {
     "criteria": {
       "quartz_chair": "2025-05-24 02:55:46 +0000"
@@ -8304,6 +8418,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8334,6 +8454,12 @@
   "pfm:recipes/furniture/quartz_table_classic": {
     "criteria": {
       "quartz_table_classic": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8373,6 +8499,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-24 03:27:34 +0000"
@@ -8385,9 +8517,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8439,9 +8583,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8511,6 +8679,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/umbran_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
@@ -8577,6 +8751,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
@@ -8610,6 +8790,12 @@
   "pfm:recipes/furniture/light_wood_classic_nightstand": {
     "criteria": {
       "light_wood_classic_nightstand": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8649,6 +8835,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/fir_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
@@ -8658,6 +8862,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8703,6 +8913,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-24 03:27:34 +0000"
@@ -8715,15 +8937,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-24 03:29:55 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/spruce_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_classic": {
     "criteria": {
       "dark_wood_table_classic": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8766,6 +9012,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-24 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8901,6 +9153,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dead_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
@@ -8910,6 +9174,12 @@
   "pfm:recipes/furniture/quartz_table_dinner": {
     "criteria": {
       "quartz_table_dinner": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
@@ -8928,6 +9198,12 @@
   "pfm:recipes/furniture/cherry_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 04:03:56 +0000"
     },
     "done": true
   },
