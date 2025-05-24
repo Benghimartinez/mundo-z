@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-24 03:05:53 +0000",
       "minecraft:beach": "2025-05-23 03:40:23 +0000",
       "minecraft:swamp": "2025-05-24 02:10:34 +0000",
       "minecraft:forest": "2025-05-23 04:02:59 +0000",
@@ -4789,6 +4790,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-24 03:03:30 +0000",
+      "minecraft:creeper": "2025-05-24 03:07:30 +0000",
       "minecraft:zombified_piglin": "2025-05-24 02:07:12 +0000",
       "minecraft:zombie": "2025-05-23 04:20:47 +0000"
     },
@@ -5373,6 +5376,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-24 02:57:13 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_creeper": "2025-05-24 03:07:36 +0000"
     },
     "done": true
   },

@@ -1826,6 +1826,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-24 03:06:36 +0000",
+      "minecraft:creeper": "2025-05-24 03:00:34 +0000",
       "minecraft:zombie": "2025-05-21 22:06:04 +0000",
       "minecraft:drowned": "2025-05-21 22:36:05 +0000"
     },

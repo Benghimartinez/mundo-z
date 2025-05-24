@@ -1092,6 +1092,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-21 19:59:39 +0000",
+      "minecraft:spider": "2025-05-24 02:59:54 +0000",
       "minecraft:creeper": "2025-05-22 03:14:02 +0000",
       "minecraft:phantom": "2025-05-24 01:53:07 +0000",
       "minecraft:piglin": "2025-05-22 01:08:53 +0000",
@@ -10758,6 +10759,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-24 02:59:54 +0000"
     },
     "done": true
   },
