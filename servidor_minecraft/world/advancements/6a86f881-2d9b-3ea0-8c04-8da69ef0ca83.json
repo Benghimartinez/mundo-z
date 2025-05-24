@@ -10438,6 +10438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-24 03:15:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:56:26 +0000"
@@ -10465,6 +10471,12 @@
   "pfm:recipes/furniture/dark_wood_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:56:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-05-24 03:15:28 +0000"
     },
     "done": true
   },
@@ -10534,6 +10546,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-24 03:15:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_table_basic": {
     "criteria": {
       "light_wood_table_basic": "2025-05-24 02:56:26 +0000"
@@ -10555,6 +10573,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-24 03:15:28 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/decorations/commercial_juice_dispenser": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:15:28 +0000"
     },
     "done": true
   },
@@ -10582,9 +10612,21 @@
     },
     "done": true
   },
+  "thingamajigs:recipes/decorations/commercial_condiment_dispenser": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:15:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_modern_dinner": {
     "criteria": {
       "dark_wood_table_modern_dinner": "2025-05-24 02:56:26 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/decorations/commercial_liquid_dispenser": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:15:28 +0000"
     },
     "done": true
   },
@@ -10639,6 +10681,12 @@
   "pfm:recipes/furniture/dark_wood_table_dinner": {
     "criteria": {
       "dark_wood_table_dinner": "2025-05-24 02:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-24 03:15:39 +0000"
     },
     "done": true
   },
@@ -10702,6 +10750,12 @@
     },
     "done": true
   },
+  "thingamajigs:recipes/decorations/commercial_utencil_dispenser": {
+    "criteria": {
+      "has_thing": "2025-05-24 03:15:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:54:10 +0000"
@@ -10714,9 +10768,21 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/nether_brick": {
+    "criteria": {
+      "has_copper_block": "2025-05-24 03:15:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-24 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-24 03:15:31 +0000"
     },
     "done": true
   },
@@ -10735,6 +10801,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-24 03:15:31 +0000"
     },
     "done": true
   },

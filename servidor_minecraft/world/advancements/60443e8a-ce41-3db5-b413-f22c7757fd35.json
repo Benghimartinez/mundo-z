@@ -7599,6 +7599,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
@@ -7611,9 +7629,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_classic": {
+    "criteria": {
+      "deepslate_table_classic": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_table_basic": {
     "criteria": {
       "quartz_table_basic": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_dinner": {
+    "criteria": {
+      "deepslate_chair_dinner": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -7629,6 +7677,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
@@ -7638,6 +7692,24 @@
   "pfm:recipes/furniture/light_wood_table_dinner": {
     "criteria": {
       "light_wood_table_dinner": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -7653,9 +7725,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair": {
+    "criteria": {
+      "deepslate_chair": "2025-05-24 03:15:52 +0000"
     },
     "done": true
   },
@@ -7668,6 +7752,18 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_basic": {
+    "criteria": {
+      "deepslate_table_basic": "2025-05-24 03:15:52 +0000"
     },
     "done": true
   },
@@ -7689,15 +7785,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magic_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-24 02:46:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_classic_nightstand": {
+    "criteria": {
+      "deepslate_classic_nightstand": "2025-05-24 03:15:52 +0000"
     },
     "done": true
   },
@@ -7725,9 +7869,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/stone_bricks": {
     "criteria": {
       "has_copper_block": "2025-05-24 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -7743,6 +7905,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
@@ -7755,15 +7935,81 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/fir_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_natural": {
+    "criteria": {
+      "deepslate_table_natural": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_table_basic": {
     "criteria": {
       "light_wood_table_basic": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_dinner": {
+    "criteria": {
+      "deepslate_table_dinner": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
     },
     "done": true
   },
@@ -7785,6 +8031,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
@@ -7803,9 +8055,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_chair_classic": {
     "criteria": {
       "dark_wood_chair_classic": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
     },
     "done": true
   },
@@ -7824,6 +8094,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
     },
     "done": true
   },
@@ -7851,6 +8127,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
@@ -7869,15 +8151,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_modern_dinner": {
+    "criteria": {
+      "deepslate_table_modern_dinner": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_dinner": {
     "criteria": {
       "dark_wood_table_dinner": "2025-05-24 02:55:46 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_chair": {
     "criteria": {
       "dark_wood_chair": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -7899,9 +8229,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/building_blocks/oak_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-05-24 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -7911,9 +8259,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -7935,6 +8313,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
@@ -7944,6 +8328,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-24 02:44:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -7965,6 +8355,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-24 02:56:05 +0000"
@@ -7983,15 +8403,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 02:56:05 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_chair_modern": {
+    "criteria": {
+      "deepslate_chair_modern": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -8019,9 +8475,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_chair_dinner": {
     "criteria": {
       "light_wood_chair_dinner": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_classic": {
+    "criteria": {
+      "deepslate_chair_classic": "2025-05-24 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
@@ -8037,9 +8517,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_classic_stool": {
     "criteria": {
       "has_planks": "2025-05-24 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-24 03:15:20 +0000"
     },
     "done": true
   },
