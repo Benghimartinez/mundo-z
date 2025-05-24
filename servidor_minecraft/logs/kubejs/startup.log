@@ -1,10 +1,10 @@
-[23:05:17] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
-[23:05:17] [INIT] Loaded plugins:
-[23:05:17] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[23:05:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[23:05:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[23:05:17] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[23:05:17] [INIT] - net.liopyu.entityjs.EntityJSPlugin
-[23:05:17] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[23:05:17] [INFO] Loaded script startup_scripts:example.js in 0.115 s
-[23:05:17] [INFO] Loaded 1/1 KubeJS startup scripts in 0.612 s with 0 errors and 0 warnings
+[02:33:11] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[02:33:11] [INIT] Loaded plugins:
+[02:33:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:33:11] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[02:33:11] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[02:33:11] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[02:33:11] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[02:33:12] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[02:33:12] [INFO] Loaded script startup_scripts:example.js in 0.121 s
+[02:33:12] [INFO] Loaded 1/1 KubeJS startup scripts in 0.593 s with 0 errors and 0 warnings
